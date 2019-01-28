@@ -36,3 +36,6 @@ The Sample code was uploaded
 28 Jan: Discussed the methodology to test the assumptions of Linear regression
 Uploaded the code file that was discussed in the class
 
+29 Jan: Discussed modeling with graphical user interface in R - with Rattle()
+Shared the textbook for learning Rattle()
+
