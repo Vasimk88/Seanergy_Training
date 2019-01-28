@@ -33,3 +33,6 @@ Updated repository as of 21-Jan:
 Assignment (Group) was given: Do GLR with all the variables of 'AirQuality' data
 The Sample code was uploaded
 
+28 Jan: Discussed the methodology to test the assumptions of Linear regression
+Uploaded the code file that was discussed in the class
+
