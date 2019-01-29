@@ -1,0 +1,35 @@
+# For model1:
+Coefficients:
+            Estimate   Std.Error t value   Pr(>|t|)    
+(Intercept) 18.59873   6.74790   2.756    0.006856
+Solar.R      0.12717   0.03278   3.880    0.000179
+
+Residual standard error: 31.33 on 109 degrees of freedom
+  (42 observations deleted due to missingness)
+Multiple R-squared:  0.1213,	Adjusted R-squared:  0.1133 
+F-statistic: 15.05 on 1 and 109 DF,  p-value: 0.0001793
+
+Adjusted R-squared:  0.1133 ~= 11.33% 
+
+# For model2:
+wind and Temp coefficients added in calculation to get more predicated value of Residual standard error.
+
+Coefficients:
+             Estimate    Std. Error  t value  Pr(>|t|)    
+(Intercept) -64.34208    23.05472    -2.791   0.00623 
+Solar.R       0.05982    0.02319     2.580    0.01124   
+Wind         -3.33359    0.65441     -5.094   1.52e-06 
+Temp          1.65209    0.25353     6.516    2.42e-09 
+
+Residual standard error: 21.18 on 107 degrees of freedom
+  (42 observations deleted due to missingness)
+Multiple R-squared:  0.6059,	Adjusted R-squared:  0.5948 
+F-statistic: 54.83 on 3 and 107 DF,  p-value: < 2.2e-16
+
+Adjusted R-squared:  0.5948 ~= 59.48%
+
+model2 is best fit to calculate ozone in environment then model1
+because model2 R-Squared value greater than model1 R-Squared value.
+
+conclusion: The adjusted R-squared increases only if the new term improves the model more than would be expected by chance. 
+It decreases when a predictor improves the model by less than expected by chance. 
