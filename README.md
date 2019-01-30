@@ -36,8 +36,7 @@ The Sample code was uploaded
 28 Jan: Discussed the methodology to test the assumptions of Linear regression
 Uploaded the code file that was discussed in the class
 
-29 Jan: Shown some practical application of ML - 'Supermarkets-Logistics', 'Wildlife conservation' and 'Baby Paster'
+30 Jan: Group assignments presented. All the groups had to include the assumptions of linear regression into their code.
+Introduced the modeling process and did a preview to the upcoming Rattle() package for advanced machine learning. 
 
-Discussed modeling with graphical user interface in R - with Rattle()
-Shared the textbook for learning Rattle()
 
