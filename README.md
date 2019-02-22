@@ -39,4 +39,4 @@ Uploaded the code file that was discussed in the class
 30 Jan: Group assignments presented. All the groups had to include the assumptions of linear regression into their code.
 Introduced the modeling process and did a preview to the upcoming Rattle() package for advanced machine learning. 
 
-
+22 Feb: Teams need to present the insights after completing their assignmnets.
